@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanprasadgupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-![image](https://github.com/RohanPrasadGupta/RohanPrasadGupta/assets/90445636/893adb84-4e35-4ae0-af87-0dbef292a416)
+![image](https://github.com/RohanPrasadGupta/RohanPrasadGupta/assets/90445636/5aed108f-4a34-4367-adc2-69c504e7b8a5)
+
 
 

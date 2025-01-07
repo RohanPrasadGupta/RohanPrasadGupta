@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm ROHAN PRASAD GUPTA</h1>
 <h3 align="center">A passionate Web & Software developer from Nepal</h3>
 
-- 🔭 I’m currently **[AI And IoT] Master's Degree Student**
+- 🔭 I’m currently **Software Developer at RV Connex**
 
-- 🌱 I’m currently learning **React , NEXT js Advance Topics**
-
-- 🤝 I’m looking for new role in **Software Engineering**
+- 🤝 I’m looking for new role in **Software Engineering or Part-Time Freelance Project**
 
 - ⚡ Fun fact **I am Health conscious and Gymaholic...**
 

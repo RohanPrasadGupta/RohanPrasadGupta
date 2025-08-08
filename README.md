@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohanPrasadGupta&theme=monokai&show_icons=true&hide_border=false&count_private=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPrasadGupta&theme=dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanPrasadGupta&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ![image](https://github.com/RohanPrasadGupta/RohanPrasadGupta/assets/90445636/0f15d3d8-d046-4c51-8282-dd5a8ce3d378)
